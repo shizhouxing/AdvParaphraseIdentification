@@ -30,11 +30,11 @@ See examples below:
 
 * Python 3.7
 
-* Download and extract [datasets](https://drive.google.com/file/d/1M1-vbDyqtL5ITAl0NuxgxPCixa9uFO3z/view?usp=sharing) to `data/`. The datasets include [QQP](https://www.quora.com/q/quoradata/First-Quora-Dataset-Release-Question-Pairs) and [MRPC](https://www.microsoft.com/en-us/download/details.aspx?id=52398).
+* Download and extract [datasets](https://huggingface.co/datasets/zhouxingshi/AdvParaphraseIdentification/blob/main/data.zip) to `data/`. The datasets include [QQP](https://www.quora.com/q/quoradata/First-Quora-Dataset-Release-Question-Pairs) and [MRPC](https://www.microsoft.com/en-us/download/details.aspx?id=52398).
 
 * Download and extract [Glove word vectors](http://nlp.stanford.edu/data/glove.840B.300d.zip) to `data/`.
 
-* Download and extract [pre-trained BERT base model](https://drive.google.com/file/d/1v84IQkuGNccwLzHyg3hl52U5ZsMT8ydV/view?usp=sharing) to this directory.
+* Download and extract [pre-trained BERT base model](https://huggingface.co/datasets/zhouxingshi/AdvParaphraseIdentification/blob/main/bert_base.zip) to this directory.
 
 * Install PyTorch 1.1.0 (using conda as an example):
 
